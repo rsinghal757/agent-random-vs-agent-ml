@@ -1,0 +1,5 @@
+order.cancellation|all i got yesterday was that my order is still pending. like i told the last representative if i don&rsquo;t receive this phones by thursday i just want to cancel everything and go with another company.
+order.concern.delay|i can not track my order because it has a letter in it. the. track says it does not exist.
+order.modification|i just placed an order
+order.status|when will it be here?
+product.browse|is there a similar model of the phone that i want to order that may be in stock?
